@@ -1,0 +1,1 @@
+copy C:\programas-C\pasta1  C:\programas-C\bkcp
